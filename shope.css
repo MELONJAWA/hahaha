@@ -1,0 +1,29 @@
+.kotak {
+  background-color: black;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 15px;
+  border-color: red;
+  color: gold;
+  font-family: "Monserrat";
+  border-bottom: 50px;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.judul {
+  background-color: purple;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: red;
+  color: gold;
+  font-family: "Monserrat";
+  border-bottom: 100px;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
